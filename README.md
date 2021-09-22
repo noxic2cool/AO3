@@ -38,12 +38,18 @@ Or, right-click & press <b>New</b> from the context menu, then select the file t
 <br />
 
 <h1>Glossary</h1>
+<b>Branch</b>: A parallel version of a repository. <br />
 <b>Clone</b>: Copy of a repository that lives on your computer. <br />
+<b>Commit</b>: An individual change to a file (or set of files). <br />
 <b>Fetch</b>: When you add changes from the remote repository to your local working branch without committing them. <br />
+<b>Git</b>: An open source program for tracking changes in text files. <br />
+<b>GitHub</b>: The social and user interface built on top of Git. <br />
+<b>Merge</b>: To take the changes from one branch, and apply them into another.<br />
 <b>Merge Conflict</b>: A difference that occurs between merged branches. <br />
 <b>Push</b>: To send your committed changes to a remote repository on GitHub. <br />
 <b>Pull</b>: When you are fetching in changes and merging them. <br />
-<b>Remote</b> <br />
+<b>Remote</b>: The version of a repository or branch that is hosted on a server. <br />
+<b>Repository</b>: To describe it simply, a project's folder. <br />
 
 # Reference List
 1. <i>Getting started with WebStorm: WebStorm. WebStorm Help. (n.d.). Retrieved September 22, 2021, from 
